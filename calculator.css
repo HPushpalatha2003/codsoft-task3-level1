@@ -108,6 +108,7 @@ table {
     display: flex;
     justify-content: center;
     align-items: center;
+    cursor:pointer;
 
 }
 .main table tr td .button:active {
